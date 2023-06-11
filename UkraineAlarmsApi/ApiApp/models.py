@@ -29,4 +29,4 @@ class UkraineAlarmsStatus(models.Model):
     Автономна_Республіка_Крим = models.BooleanField(default=False)
 
     def __str__(self):
-        return f"Status alarms in Ukraine on {self.datetime}"
+        return f"Status of alarms in Ukraine on {self.datetime}"
