@@ -5,6 +5,6 @@ from .models import UkraineRegions
 class UkraineSerializer(serializers.ModelSerializer):
     class Meta:
         model = UkraineRegions
-        fields = '__all__'
+        fields = ['id', 'Region', 'Region_en', 'Alarm', 'datetime']
 
 

@@ -15,8 +15,6 @@ class UkraineAlarmsView(APIView):
         output = serializer_alarms.data
         return Response(output)
 
-    def post(self, request):
-        pass
 
 
 
