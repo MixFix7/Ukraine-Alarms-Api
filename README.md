@@ -78,6 +78,7 @@ Response:
         "Alarm": false,
         "datetime": "2023-06-26 22:41:31.307666"
     },
+   
     {
         "id": 2,
         "Region": "Донецька",
@@ -85,13 +86,14 @@ Response:
         "Alarm": false,
         "datetime": "2023-06-26 22:41:31.326398"
     },
+   
     {
         "id": 3,
         "Region": "Харківська",
         "Region_en": "Kharkiv",
         "Alarm": false,
         "datetime": "2023-06-26 22:41:31.341349"
-    }, ...
+    },
 ```
 
 
