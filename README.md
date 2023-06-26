@@ -1,6 +1,6 @@
 # Ukraine Alarms API
 
-![Ukraine Alarms API Logo](https://raw.githubusercontent.com/MixFix7/Ukraine-Alarms-Api/main/api_logo.png)
+![Ukraine Alarms API Logo](https://raw.githubusercontent.com/MixFix7/Ukraine-Alarms-Api/main/apiLogo.png)
 
 ## Description
 
